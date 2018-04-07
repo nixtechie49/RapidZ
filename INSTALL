@@ -1,0 +1,9 @@
+Building RapidZ
+
+See doc/readme-qt.rst for instructions on building RapidZ QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of RapidZ.
+
+See doc/build-*.txt for instructions on building RapidZd,
+the intended-for-services, no-graphical-interface, reference
+implementation of RapidZ.
